@@ -1,0 +1,4 @@
+gymnasium[box2d]>=0.29
+pyyaml
+-e externals/nautilus[dev,envs,jax]
+-e externals/cleanrl[box2d]

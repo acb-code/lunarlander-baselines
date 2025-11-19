@@ -1,0 +1,6 @@
+[submodule "externals/nautilus"]
+	path = externals/nautilus
+	url = git@github.com:acb-code/nautilus.git
+[submodule "externals/cleanrl"]
+	path = externals/cleanrl
+	url = git@github.com:vwxyzjn/cleanrl.git
